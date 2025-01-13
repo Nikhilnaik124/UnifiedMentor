@@ -10,7 +10,7 @@ This repository contains a collection of machine learning projects and data anal
 - [Introduction](#introduction)
 - [Projects](#projects)
   - [American Sign Language Recognition](#american-sign-language-recognition)
-  - [Arpita Maji ML Minor Project](#arpita-maji-ml-minor-project)
+  - [ ML Minor Project](#arpita-maji-ml-minor-project)
   - [Fraud Detection](#fraud-detection)
   - [Heart Disease Prediction](#heart-disease-prediction)
   - [Liver Cirrhosis Prediction](#liver-cirrhosis-prediction)
